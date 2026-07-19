@@ -1,0 +1,24 @@
+{
+  "name": "afri-stream",
+  "short_name": "afri-stream",
+  "description": "Mini-series africaines : Cameroun, Senegal, Cote d'Ivoire, RD Congo, Mali, Benin et plus.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#12192E",
+  "theme_color": "#12192E",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
